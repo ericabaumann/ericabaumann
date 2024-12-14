@@ -1,4 +1,4 @@
-
+![Logo](https://raw.githubusercontent.com/ericabaumann/ericabaumann/a930746e26f733c8ade8c7747249d2dcb8d4c873/Banner%20de%20Linkedin%20Analista%20de%20Datos%20(1).png)
 # 🚀 Hola, soy Erica Baumann! 👋
 
 
