@@ -3,7 +3,7 @@
 
 
 
-¡Bienvenido a mi perfil de GitHub! Soy socióloga y People Data Analyst. 🖥️
+¡Bienvenido a mi perfil de GitHub! 🖥️
 
 
 - Soy licenciada en Sociología por la Universidad de Buenos Aires y completé el bootcamp de la carrera de Data Analytics en la Academia de Tecnología Henry.
