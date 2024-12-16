@@ -23,7 +23,7 @@
 - Soy curiosa y estoy en constante actualización. Tengo un fuerte interés en la tecnología emergente y la inteligencia artificial, siempre buscando optimizar procesos y apoyar la toma de decisiones estratégicas mediante el análisis riguroso de datos. 
 - Además, disfruto contar historias basadas en datos que impulsen decisiones fundamentadas y mejoren continuamente los procesos.
 
-- Un dato curioso: Soy puericultora y acompaño a familias en sus lactancias y crianza. 👶
+- Un dato curioso: Soy puericultora 👶
 
 ## Mis intereses ✨
 
@@ -45,7 +45,7 @@ SQL Server 🗄️.
 
 Power BI 📊.
 
-Qualtrics.
+Qualtrics 📊.
 
 ## Contacto 📬
 
