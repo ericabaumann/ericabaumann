@@ -49,7 +49,7 @@ Qualtrics 📊.
 
 ## Contacto 📬
 
-Contactate conmigo para explorar juntos oportunidades laborales o trabajar en colaboraciones.
+Contactate conmigo para explorar juntos oportunidades laborales, o simplemente para intercambiar ideas sobre análisis de datos.
 
 📧 Correo electrónico: ericabaumann@gmail.com
 
