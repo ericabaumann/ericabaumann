@@ -11,10 +11,10 @@
 
 
 ## Mi experiencia profesional:
-
-- Administración Pública Nacional: Trabajé durante 8 años como analista de contrataciones, realizando control de procesos, gestión de proyectos y análisis de datos.
-- Municipalidad de La Plata: Durante 4 años fui coordinadora de Programas Sanitarios, liderando equipos de trabajo.
-- Bootcamp de Henry: Apliqué conocimientos de ingeniería y ciencia de datos en proyectos prácticos, consolidando mi formación en tecnologías emergentes.
+- Soy Socióloga y Analista de Datos con más de 10 años de experiencia en la Administración Pública Nacional, donde me especialicé en análisis de datos, gestión de contrataciones y optimización de procesos. También tengo experiencia coordinando equipos.
+- Trabajé con herramientas como, Excel, Access, Tableau y plataformas administrativas como GDE, COMPR.AR y Si.G.I.R.H.
+- Me enfoqué en el análisis de datos aplicados a personas, recursos humanos y gestión del talento para optimizar procesos y facilitar la toma de decisiones.
+- Combiné mi formación social con habilidades técnicas para transformar datos en información estratégica.
 
 ## Sobre mí:
 
