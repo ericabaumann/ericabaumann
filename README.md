@@ -35,6 +35,7 @@
 - SQL Server 🗄️.
 - Power BI 📊.
 - Qualtrics 📊.
+- Google Sheets.
 
 ## 📬 Contacto
 ¡Conectemos! 🚀
