@@ -13,44 +13,35 @@
 ## Mi experiencia profesional:
 
 - Administración Pública Nacional: Trabajé durante 8 años como analista de contrataciones, realizando control de procesos, gestión de proyectos y análisis de datos.
-
 - Municipalidad de La Plata: Durante 4 años fui coordinadora de Programas Sanitarios, liderando equipos de trabajo.
-
 - Bootcamp de Henry: Apliqué conocimientos de ingeniería y ciencia de datos en proyectos prácticos, consolidando mi formación en tecnologías emergentes.
 
 ## Sobre mí:
 
 - Soy curiosa y estoy en constante actualización. Tengo un fuerte interés en la tecnología emergente y la inteligencia artificial, siempre buscando optimizar procesos y apoyar la toma de decisiones estratégicas mediante el análisis riguroso de datos. 
 - Además, disfruto contar historias basadas en datos que impulsen decisiones fundamentadas y mejoren continuamente los procesos.
-
 - Un dato curioso: Soy puericultora 👶
 
 ## Mis intereses ✨
-
 - Diseño de herramientas de recolección de datos como encuestas y cuestionarios.
-
 - Análisis de datos descriptivo y avanzado.
-
 - Visualización de datos interactiva.
-
 - Elaboración y supervisión de proyectos de análisis.
-
 - Consultoría en la implementación de herramientas de Business - Intelligence y tecnologías emergentes.
 
 ## Mis habilidades 🛠️
 
 Python 🐍: Pandas, Matplotlib, Seaborn, Numpy.
-
 SQL Server 🗄️.
-
 Power BI 📊.
-
 Qualtrics 📊.
 
-## Contacto 📬
-
-Contactate conmigo para explorar juntos oportunidades laborales, o simplemente para intercambiar ideas sobre análisis de datos.
+## 📬 Contacto
+¡Conectemos! 🚀
+Si estás interesado en explorar oportunidades laborales, intercambiar ideas sobre análisis de datos o simplemente conversar, no dudes en contactarme:
 
 📧 Correo electrónico: ericabaumann@gmail.com
 
-💼 LinkedIn: [Erica Baumann](https://www.linkedin.com/in/eribau/)
+📱 Teléfono (Argentina): +54 9 11 5747-9713
+
+[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/eribau/) 
