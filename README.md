@@ -31,14 +31,14 @@
 
 ## Mis habilidades 🛠️
 
-Python 🐍: Pandas, Matplotlib, Seaborn, Numpy.
-SQL Server 🗄️.
-Power BI 📊.
-Qualtrics 📊.
+- Python 🐍: Pandas, Matplotlib, Seaborn, Numpy.
+- SQL Server 🗄️.
+- Power BI 📊.
+- Qualtrics 📊.
 
 ## 📬 Contacto
 ¡Conectemos! 🚀
-Si estás interesado en explorar oportunidades laborales, intercambiar ideas sobre análisis de datos o simplemente conversar, no dudes en contactarme:
+Si estás interesado en explorar juntos oportunidades laborales, o simplemente intercambiar ideas sobre análisis de datos, no dudes en contactarme:
 
 📧 Correo electrónico: ericabaumann@gmail.com
 
