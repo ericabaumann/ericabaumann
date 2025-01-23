@@ -6,18 +6,17 @@
 ¡Bienvenido a mi perfil de GitHub! 🖥️
 
 
-- Soy licenciada en Sociología por la Universidad de Buenos Aires y completé el bootcamp de la carrera de Data Analytics en la Academia de Tecnología Henry.
-- Actualmente me encuentro en la búsqueda de oportunidades laborales en el mercado IT, específicamente en las áreas de People Analytics o Project Management.
+- Soy licenciada en Sociología por la Universidad de Buenos Aires y Data Analytics por la Academia de Tecnología Henry.
+- Actualmente me encuentro en la búsqueda de oportunidades laborales en el mercado IT, específicamente en las áreas de People Analytics o Analista de Datos.
 
 
 ## Mi experiencia profesional:
-- Soy Socióloga y Analista de Datos con más de 10 años de experiencia en la Administración Pública Nacional, donde me especialicé en análisis de datos, gestión de contrataciones y optimización de procesos. También tengo experiencia coordinando equipos.
+- Poseo más de 10 años de experiencia en la Administración Pública, donde me especialicé en análisis de datos, gestión de contrataciones y optimización de procesos. También tengo experiencia coordinando equipos.
 - Trabajé con herramientas como, Excel, Access, Tableau y plataformas administrativas como GDE, COMPR.AR y Si.G.I.R.H.
 - Me enfoqué en el análisis de datos aplicados a personas, recursos humanos y gestión del talento para optimizar procesos y facilitar la toma de decisiones.
 - Combiné mi formación social con habilidades técnicas para transformar datos en información estratégica.
 
 ## Sobre mí:
-
 - Soy curiosa y estoy en constante actualización. Tengo un fuerte interés en la gestion de talentos y las tecnología emergentes, siempre buscando optimizar procesos y apoyar la toma de decisiones estratégicas mediante el análisis riguroso de datos. 
 - Además, disfruto contar historias basadas en datos que impulsen decisiones fundamentadas y mejoren continuamente los procesos.
 - Un dato curioso: Soy puericultora 👶
@@ -36,6 +35,7 @@
 - Power BI 📊.
 - Qualtrics 📊.
 - Google Sheets.
+- Google Analytics
 
 ## 📬 Contacto
 ¡Conectemos! 🚀
